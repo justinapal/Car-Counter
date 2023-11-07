@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Puerto_Rico_beach_at_the_Gran_Melia_Golf_Resort%2C_Rio_Grande%2C_Puerto_Rico%2C_U.S.jpg/1024px-Puerto_Rico_beach_at_the_Gran_Melia_Golf_Resort%2C_Rio_Grande%2C_Puerto_Rico%2C_U.S.jpg");
+     
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    max-width: 500px;
+    background-color: #669286;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    opacity: 90%
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: white;
+    opacity: 90%;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+#increment-btn {
+    background: #C8A86E;
+    opacity: 90%
+}
+
+#save-btn {
+    background: #374E2F;
+    opacity: 90%
+}
+
+p {
+    color: white;
+    margin: 0 auto;
+    opacity: 90%;
+    padding: 15px;
+    
+}
+
